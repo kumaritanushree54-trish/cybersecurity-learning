@@ -2,52 +2,24 @@
 
 A 90-day hands-on cybersecurity learning journey.
 
-## Progress
+## Progress 
 
 # Day 01 — Data Breaches
 
-## What I Learned
+## Learned
+- What a data breach is
+- How credentials can be exposed
+- Password hashing and bcrypt
+- Importance of unique passwords and MFA
 
-A data breach occurs when unauthorized parties gain access to data held by an organization.
+## Practical Task
+Checked my own accounts using a breach-monitoring service and identified that one secondary account had appeared in a known breach.
 
-Information exposed during breaches can include:
-- Email addresses
-- Usernames
-- Password hashes
-- Other account information
+## Key Takeaway
+A data breach can expose user information and credentials, making strong unique passwords and MFA important.
 
-## Case Studied
-
-I studied a 2024 Internet Archive data breach and learned about the types of information that can be exposed during a breach.
-
-## Security Concepts
-
-- Data breaches
-- Password hashing
-- Bcrypt
-- Credential exposure
-- Password reuse
-- Multi-factor authentication (MFA)
-
-## Personal Security Check
-
-I checked my own accounts using a breach-monitoring service.
-
-One secondary email account appeared in a known breach.
-
-No personal email address or other sensitive account information is included in this repository.
-
-## What I Learned From the Exercise
-
-This exercise made the concept of data breaches more practical because I connected the concept with my own digital security.
-
-## Actions I Should Take
-
-- Use unique passwords
-- Enable MFA
-- Avoid password reuse
-- Monitor important accounts
-- Change credentials when necessary
+## Status
+Completed ✅
 
 
 ## Daily Notes
