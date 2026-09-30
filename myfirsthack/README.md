@@ -49,7 +49,6 @@ This exercise made the concept of data breaches more practical because I connect
 - Monitor important accounts
 - Change credentials when necessary
 
-[]Day 31 completed
 
 ## Daily Notes
 
