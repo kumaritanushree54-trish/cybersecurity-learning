@@ -1,4 +1,4 @@
-# cybersecurity-learning Journey 🔐
+# Cybersecurity Learning Journey 🔐
 My structured cybersecurity learning journey, notes, hands-on exercises, writeups, and progress.
 
 I'm building my foundations through coursework, hands-on practice,
@@ -16,6 +16,8 @@ technical documentation, and portfolio projects.
 
 ## Learning Paths
 
+###MyFirstHack
+A 90-day Hands-on practical cybersecurity learning journey .
 
 
 ### CS50 Cybersecurity
